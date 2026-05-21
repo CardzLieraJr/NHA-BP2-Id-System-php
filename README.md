@@ -77,6 +77,12 @@ bp2-system/
 │   ├── footer.php
 │   └── auth_check.php
 │
+├── screenshots/
+│   ├── login.png
+│   ├── controller.png
+│   ├── contact.png
+│   └── accounts.png
+│
 ├── index.php
 └── README.md
 ```
