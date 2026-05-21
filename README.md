@@ -203,6 +203,16 @@ Password: user123
 
 ---
 
+## 📥 Excel Import Feature
+
+- Personal Information
+Supports bulk importing using:
+````
+pattern_import_bp2_orig.xlsx
+```
+
+---
+
 ## 🚀 Future Improvements
 
 - Export to PDF
@@ -211,14 +221,17 @@ Password: user123
 
 ---
 
-### 🏠 Homepage
+### 🏠 Login
 ![login](screenshots/login.png)
 
-### 🖼️ Gallery Page
-![Gallery](screenshots/gallery.png)
+### 🖼️ Controller Page
+![Gallery](screenshots/controller.png)
 
-### 📩 Contact Page
+### 📩 Registraion Page
 ![Contact](screenshots/contact.png)
+
+### 📩 Accounts Page
+![Contact](screenshots/accounts.png)
 
 
 ---
