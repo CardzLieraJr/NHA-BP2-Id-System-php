@@ -222,17 +222,16 @@ pattern_import_bp2_orig.xlsx
 ---
 
 ### 🏠 Login
-![login](screenshots/login.png)
+![Login](screenshots/login.png)
 
-### 🖼️ Controller Page
-![Gallery](screenshots/controller.png)
+### 🧭 Controller Page
+![Controller](screenshots/controller.png)
 
-### 📩 Registraion Page
-![Contact](screenshots/contact.png)
+### 📝 Registration Page
+![Registration](screenshots/contact.png)
 
-### 📩 Accounts Page
-![Contact](screenshots/accounts.png)
-
+### 👤 Accounts Page
+![Accounts](screenshots/accounts.png)
 
 ---
 
