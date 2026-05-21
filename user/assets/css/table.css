@@ -1,0 +1,72 @@
+/* =========================
+        TITLE STYLING
+   ========================= */
+.bp2_title {
+  text-align: center;       /* Centers the title text horizontally */
+  color: #191434;           /* Dark navy text color */
+  font-family: fantasy;     /* Decorative fantasy-style font */
+  display: block;           /* Ensures element behaves as a block */
+}
+
+/* =========================
+        TABLE BASE STYLING
+   ========================= */
+table {
+  background-color: transparent; /* Removes default background */
+}
+
+/* Table header cells */
+th {
+  font-family: monospace;        /* Monospaced font for headers */
+  font-weight: bold;             /* Bold text */
+  text-transform: uppercase;     /* Converts text to ALL CAPS */
+  background-color: #191434;     /* Dark navy background */
+  color: #ffffff;                /* White text color */
+}
+
+/* Table body cells */
+td {
+  color: #000;                   /* Black text color */
+  font-family: monospace;        /* Monospaced font for consistency */
+}
+
+/* Remove Bootstrap overrides for table rows */
+tbody,
+tr {
+  background-color: transparent; /* Keeps rows transparent */
+}
+
+/* =========================
+        BUTTON STYLING
+   ========================= */
+.bp2_btn {
+  background-color: #191434;     /* Dark navy background */
+  color: #ffffff;                /* White text */
+  border: none;                  /* Removes default border */
+  border-radius: 27px;           /* Rounded corners */
+  padding: 10px 50px;            /* Vertical + horizontal padding */
+  text-transform: uppercase;     /* Button text in ALL CAPS */
+  cursor: pointer;               /* Pointer cursor on hover */
+  transition: 0.3s ease;         /* Smooth hover transition */
+}
+
+/* Button hover effect */
+.bp2_btn:hover {
+  opacity: 0.85;                 /* Slight transparency on hover */
+}
+
+/* =========================
+        RESPONSIVE DESIGN
+   ========================= */
+@media (max-width: 768px) {
+  .bp2_title {
+    text-align: left;            /* Aligns title to the left on small screens */
+    font-size: 2.5rem;           /* Larger font size for readability */
+    width: 100%;                 /* Full width title */
+  }
+
+  .bp2_btn {
+    width: 100%;                 /* Button stretches full width */
+    padding: 12px;               /* Adjusted padding for smaller screens */
+  }
+}
