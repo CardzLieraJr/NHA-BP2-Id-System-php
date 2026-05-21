@@ -235,7 +235,7 @@ pattern_import_bp2_orig.xlsx
 ![Controller](screenshots/controller.png)
 
 ### 📝 Registration Page
-![Registration](screenshots/contact.png)
+![Registration](screenshots/registraion.png)
 
 ### 👤 Accounts Page
 ![Accounts](screenshots/accounts.png)
